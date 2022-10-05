@@ -2,7 +2,6 @@
 
 This project created for face detection using Opencv.
 
-Some steps to run this project:
-* Install opencv library: 
-  _pip install opencv_
+To run this project you need to install opencv library: 
+ ''' pip install opencv '''
 
